@@ -5,4 +5,4 @@ Can't use PYAUTOGUI because it doesn't work android. <br>
 So I had to use PYTHON and ADB. <br>
 
 
-##### craft.py : It automatically converts/crafts low level tiles to higher level tiles.
+##### craft_tiles.py : It automatically converts/crafts low level tiles to higher level tiles.
