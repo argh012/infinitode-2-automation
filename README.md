@@ -4,5 +4,5 @@ Why?
 Can't use PYAUTOGUI because it doesn't work android.
 So I had to use PYTHON and ADB.
 List:
-  ***  craft.py
+  **  craft.py
 <b>craft.py<b>
