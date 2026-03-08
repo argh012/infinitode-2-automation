@@ -1,7 +1,7 @@
-# infinitode-2-automation
-Infinitode 2 Game automation using PYTHON and ADB <br>
+# infinitode-2 automation
+Infinitode 2  automation using PYTHON and ADB <br>
 Why am I using ADB instead of PYAUTOGUI? <br>
-Because I can't use PYAUTOGUI. It supports desktop environments and doesn't work android. <br>
+Because It supports desktop environments and doesn't work android. <br>
 So I had to use PYTHON and ADB. <br>
 There are several other ways to achieve this. But I am choosing PYTHON and ADB for this project. <br>
 
